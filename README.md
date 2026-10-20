@@ -1,15 +1,15 @@
 # CourtesyCrawl
 
-![CourtesyCrawl logo](assets/logo.png)
-
 CourtesyCrawl is a free helper for doing web research and scraping the legitimate way. It checks for an official API first, reads robots.txt under RFC 9309, reads the site's terms, identifies itself with a contact, goes slowly, and backs off on HTTP 429 and Retry-After. It never bypasses logins, paywalls or CAPTCHAs and never harvests personal data. A small free Python helper script with pinned dependencies is included.
+
+![CourtesyCrawl logo](assets/logo.png)
 
 ## Project status: done, pending, uncertain
 **Done**
 - 2026-10-20: v1.0.0 built and tested: manifest valid JSON, frontmatter valid, every documented command run, real robots.txt checks (Wikipedia disallowed path, example.com 404 = allowed), real polite fetch of RFC 9309, and a local 429/Retry-After test (waits, then stops with exit 3).
 
 **Pending**
-- Marketplace submission: not submitted yet.
+- Marketplace review: submitted 2026-10-20, pending, no approval yet.
 - Translated summaries below are machine-made and not reviewed by native speakers.
 - The helper fetches pages only; it does not render JavaScript or parse HTML (by design, to stay small).
 
@@ -58,30 +58,20 @@ Expected: `1.0.0`; Wikipedia Special pages `allowed: no` (exit 1); example.com `
 - `examples/sample-check.md`: real output.
 
 ## Languages
-These summaries are machine-made translations and have not been reviewed by native speakers. The English text is authoritative.
-
-- **Español:** CourtesyCrawl es un plugin gratuito para investigar y extraer datos web de forma legítima: respeta robots.txt, los límites 429/Retry-After y los términos del sitio, y se identifica.
-- **Français:** CourtesyCrawl est un plugin gratuit pour la recherche et l'extraction web légitimes : il respecte robots.txt, les limites 429/Retry-After et les conditions du site, et s'identifie.
-- **Deutsch:** CourtesyCrawl ist ein kostenloses Plugin für legitime Webrecherche und Scraping: Es beachtet robots.txt, 429/Retry-After und Nutzungsbedingungen und gibt sich zu erkennen.
-- **Português:** CourtesyCrawl é um plugin gratuito para pesquisa e coleta web legítimas: respeita robots.txt, limites 429/Retry-After e os termos do site, e se identifica.
-- **Italiano:** CourtesyCrawl è un plugin gratuito per ricerca e scraping web legittimi: rispetta robots.txt, i limiti 429/Retry-After e i termini del sito, e si identifica.
-- **Nederlands:** CourtesyCrawl is een gratis plug-in voor legitiem webonderzoek en scrapen: respecteert robots.txt, 429/Retry-After en de sitevoorwaarden, en maakt zich bekend.
-- **Polski:** CourtesyCrawl to darmowa wtyczka do legalnego badania i pobierania stron: przestrzega robots.txt, limitów 429/Retry-After i regulaminów oraz przedstawia się.
-- **Русский:** CourtesyCrawl — бесплатный плагин для законного веб-исследования и сбора данных: соблюдает robots.txt, 429/Retry-After и правила сайта и представляется.
-- **Українська:** CourtesyCrawl — безкоштовний плагін для законного веб-дослідження та збору даних: дотримується robots.txt, 429/Retry-After і правил сайту та представляється.
-- **Türkçe:** CourtesyCrawl, meşru web araştırması ve veri toplama için ücretsiz bir eklentidir: robots.txt, 429/Retry-After ve site şartlarına uyar, kendini tanıtır.
-- **العربية:** CourtesyCrawl إضافة مجانية للبحث وجمع البيانات من الويب بطرق مشروعة: تحترم robots.txt وحدود 429/Retry-After وشروط الموقع وتعرّف بنفسها.
-- **עברית:** CourtesyCrawl הוא תוסף חינמי למחקר ואיסוף נתונים מהרשת בדרך לגיטימית: מכבד את robots.txt, את 429/Retry-After ואת תנאי האתר ומזדהה.
-- **فارسی:** CourtesyCrawl افزونه‌ای رایگان برای پژوهش و جمع‌آوری مشروع داده از وب است: به robots.txt، محدودیت 429/Retry-After و شرایط سایت احترام می‌گذارد و خود را معرفی می‌کند.
-- **हिन्दी:** CourtesyCrawl वैध वेब शोध और स्क्रैपिंग के लिए मुफ़्त प्लगइन है: यह robots.txt, 429/Retry-After और साइट की शर्तों का पालन करता है और अपनी पहचान बताता है।
-- **বাংলা:** CourtesyCrawl বৈধ ওয়েব গবেষণা ও স্ক্র্যাপিংয়ের জন্য বিনামূল্যের প্লাগইন: robots.txt, 429/Retry-After ও সাইটের শর্ত মানে এবং নিজের পরিচয় দেয়।
-- **اردو:** CourtesyCrawl جائز ویب تحقیق اور اسکریپنگ کے لیے مفت پلگ اِن ہے: یہ robots.txt، 429/Retry-After اور سائٹ کی شرائط کا احترام کرتا ہے اور اپنی شناخت کراتا ہے۔
-- **中文（简体）:** CourtesyCrawl 是一款免费插件，帮助合法地进行网络研究与抓取：遵守 robots.txt、429/Retry-After 限制和网站条款，并表明身份。
-- **日本語:** CourtesyCrawl は正当なウェブ調査・スクレイピングのための無料プラグインです。robots.txt、429/Retry-After、サイト規約を守り、身元を明示します。
-- **한국어:** CourtesyCrawl은 합법적인 웹 조사와 스크래핑을 위한 무료 플러그인으로, robots.txt, 429/Retry-After, 사이트 약관을 지키고 자신을 밝힙니다.
-- **Bahasa Indonesia:** CourtesyCrawl adalah plugin gratis untuk riset dan scraping web yang sah: mematuhi robots.txt, batas 429/Retry-After, dan ketentuan situs, serta mengidentifikasi diri.
-- **Tiếng Việt:** CourtesyCrawl là plugin miễn phí để nghiên cứu và thu thập web hợp pháp: tuân thủ robots.txt, giới hạn 429/Retry-After và điều khoản trang, đồng thời tự giới thiệu.
-- **Kiswahili:** CourtesyCrawl ni programu-jalizi ya bure kwa utafiti na ukusanyaji halali wa data mtandaoni: inaheshimu robots.txt, 429/Retry-After na masharti ya tovuti, na inajitambulisha.
+The AI answers in the user's language and keeps commands, file names and status labels unchanged. Title, description and honest-assessment summaries in 23 languages are in [TRANSLATIONS.md](TRANSLATIONS.md): Español, Français, Português, Deutsch, Italiano, Nederlands, Polski, Русский, Українська, Türkçe, العربية, עברית, فارسی, हिन्दी, বাংলা, اردو, 简体中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, Kiswahili, Tagalog / Filipino. They are machine translations, not yet reviewed by native speakers; the English text is authoritative.
 
 ## License
 MIT. See `LICENSE`.
+
+## Honest assessment: what this plugin cannot do
+Written to be fully transparent. If something here is wrong or out of date, please open an issue.
+
+- The helper fetches pages only. It does not render JavaScript or parse HTML.
+- It cannot read every site's terms for you; it reminds you to read them.
+- `Crawl-delay` is honored but is not part of RFC 9309, and sites interpret it differently.
+- By design it never bypasses logins, paywalls or CAPTCHAs and never harvests personal data, so some sites and data are out of reach.
+- The optional helper needs Python and two pinned free packages (requests 2.32.3, protego 0.3.1; tested on Python 3.13).
+- Marketplace: submitted 2026-10-20 and still pending review; it is not an approved listing yet.
+- Translations: the 23 translated summaries in [TRANSLATIONS.md](TRANSLATIONS.md) are machine-made and have not been reviewed by native speakers. The English text is authoritative.
+- It is not legal advice and cannot guarantee that any particular use is lawful; you remain responsible for how you use it.
+- Rules and compliance: it is built to follow all local, county, state and federal laws and every platform's rules. It uses no paid services, never bypasses logins, paywalls, CAPTCHAs or access controls, and never claims a feature it does not have.
