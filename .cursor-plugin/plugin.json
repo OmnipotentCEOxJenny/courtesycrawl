@@ -1,0 +1,24 @@
+{
+  "name": "courtesycrawl",
+  "displayName": "CourtesyCrawl",
+  "version": "1.0.0",
+  "description": "Free helper for legitimate web research and scraping: reads robots.txt (RFC 9309), honors 429/Retry-After, rate-limits, identifies itself, no login or paywall bypass.",
+  "author": {
+    "name": "Rob Domaine / Omnipotent Media LLC"
+  },
+  "publisher": "Omnipotent Media LLC",
+  "homepage": "https://github.com/OmnipotentCEOxJenny/courtesycrawl",
+  "repository": "https://github.com/OmnipotentCEOxJenny/courtesycrawl",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "web-scraping",
+    "robots-txt",
+    "rfc-9309",
+    "rate-limit",
+    "research",
+    "crawler",
+    "ethics",
+    "multilingual"
+  ]
+}
