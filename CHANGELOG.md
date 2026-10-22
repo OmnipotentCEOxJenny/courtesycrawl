@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5 (2026-10-22)
+- README Testing line now says `Expected: 1.0.5` (it still said 1.0.0).
+- `scripts/courtesy_fetch.py --version` reports 1.0.5. Docs-only; no behavior changes.
+
 ## 1.0.4 (2026-10-22)
 - `.gitignore` added: ignores Python cache folders (`__pycache__/`, `*.pyc`).
 - `scripts/courtesy_fetch.py --version` reports 1.0.4. No behavior changes.
