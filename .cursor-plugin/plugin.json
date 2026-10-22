@@ -12,6 +12,7 @@
   "license": "MIT",
   "logo": "assets/logo.png",
   "keywords": [
+    "courtesycrawl",
     "web-scraping",
     "polite-crawler",
     "polite-scraping",
@@ -47,6 +48,7 @@
     "scraper-etiquette",
     "site-owner-friendly",
     "academic-research",
-    "multilingual"
+    "multilingual",
+    "jenny-echo"
   ]
 }
