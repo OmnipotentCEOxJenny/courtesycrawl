@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.3 (2026-10-21)
+- Added `tests/check_frontmatter.py`: a strict YAML front-matter check (PyYAML `safe_load`) for every SKILL.md and rules .mdc file, plus a plugin.json JSON check. Run `python3 tests/check_frontmatter.py` from the repo root; it catches the unquoted-colon bug fixed in PluginPulse 1.0.2.
+- `scripts/courtesy_fetch.py` now reports `--version` 1.0.3, matching the plugin version (it said 1.0.0 since the 1.0.1/1.0.2 docs-only releases).
+- No behavior changes to skills or rules.
+
 ## 1.0.2 (2026-10-20)
 - TRANSLATIONS.md: each of the 23 languages now includes this plugin's specific limits list (from the README's "Honest assessment: what this plugin cannot do" section) plus the marketplace status. Machine translations, not reviewed by native speakers.
 - Docs only; no behavior changes.
