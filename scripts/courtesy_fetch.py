@@ -12,7 +12,7 @@ import argparse, email.utils, hashlib, os, sys, time, urllib.parse
 import requests
 from protego import Protego
 
-VERSION = "1.0.5"
+VERSION = "1.0.6"
 MAX_ROBOTS_BYTES = 500 * 1024  # RFC 9309 sec. 2.5: parse at least 500 KiB
 MAX_RETRY_AFTER = 600          # stop rather than wait more than 10 minutes
 _robots_cache = {}             # RFC 9309 sec. 2.4: do not cache beyond 24 h (one run only here)

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.6 (2026-10-23)
+- Search keywords: 33 to 40 (added CrawlDelay, OfficialApiFirst, SiteTerms, PoliteFetch, BotIdentity, ScrapingChecklist, AllowedPaths), all CourtesyCrawl-specific, per Rob's keyword rules.
+- Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.5 (2026-10-22)
 - README Testing line now says `Expected: 1.0.5` (it still said 1.0.0).
 - `scripts/courtesy_fetch.py --version` reports 1.0.5. Docs-only; no behavior changes.

@@ -37,7 +37,7 @@ python scripts/local_test_server.py &
 python scripts/courtesy_fetch.py fetch http://127.0.0.1:8765/page http://127.0.0.1:8765/private/x --contact you@example.com --delay 0.5
 python scripts/courtesy_fetch.py fetch http://127.0.0.1:8765/always429 --contact you@example.com --delay 0.5
 ```
-Expected: `1.0.5`; Wikipedia Special pages `allowed: no` (exit 1); example.com `allowed: yes` (robots 404); local fetch waits once on 429 then saves `/page` and skips `/private/x` (exit 1); `/always429` waits twice then STOPs (exit 3).
+Expected: `1.0.6`; Wikipedia Special pages `allowed: no` (exit 1); example.com `allowed: yes` (robots 404); local fetch waits once on 429 then saves `/page` and skips `/private/x` (exit 1); `/always429` waits twice then STOPs (exit 3).
 
 ## Credits
 - Inventor and publisher: Rob Domaine / Omnipotent Media LLC
