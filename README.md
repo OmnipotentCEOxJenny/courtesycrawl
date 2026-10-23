@@ -37,7 +37,7 @@ python scripts/local_test_server.py &
 python scripts/courtesy_fetch.py fetch http://127.0.0.1:8765/page http://127.0.0.1:8765/private/x --contact you@example.com --delay 0.5
 python scripts/courtesy_fetch.py fetch http://127.0.0.1:8765/always429 --contact you@example.com --delay 0.5
 ```
-Expected: `1.0.6`; Wikipedia Special pages `allowed: no` (exit 1); example.com `allowed: yes` (robots 404); local fetch waits once on 429 then saves `/page` and skips `/private/x` (exit 1); `/always429` waits twice then STOPs (exit 3).
+Expected: `1.0.7`; Wikipedia Special pages `allowed: no` (exit 1); example.com `allowed: yes` (robots 404); local fetch waits once on 429 then saves `/page` and skips `/private/x` (exit 1); `/always429` waits twice then STOPs (exit 3).
 
 ## Credits
 - Inventor and publisher: Rob Domaine / Omnipotent Media LLC
@@ -58,7 +58,7 @@ Expected: `1.0.6`; Wikipedia Special pages `allowed: no` (exit 1); example.com `
 - `examples/sample-check.md`: real output.
 
 ## Languages
-The AI answers in the user's language and keeps commands, file names and status labels unchanged. Title, description and honest-assessment summaries in 23 languages are in [TRANSLATIONS.md](TRANSLATIONS.md): Español, Français, Português, Deutsch, Italiano, Nederlands, Polski, Русский, Українська, Türkçe, العربية, עברית, فارسی, हिन्दी, বাংলা, اردو, 简体中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, Kiswahili, Tagalog / Filipino. They are machine translations, not yet reviewed by native speakers; the English text is authoritative.
+The AI answers in the user's language and keeps commands, file names and status labels unchanged. Title, description and honest-assessment summaries in 23 languages are in [TRANSLATIONS.md](TRANSLATIONS.md): Español, Français, Português, Deutsch, Italiano, Nederlands, Polski, Русский, Українська, Türkçe, العربية, עברית, فارسی, हिन्दी, বাংলা, اردو, 简体中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, Kiswahili, Tagalog / Filipino. They are machine translations, not yet reviewed by native speakers; the English text is authoritative. Each language section in TRANSLATIONS.md also starts with a one-line machine-translation notice in that language.
 
 ## License
 MIT. See `LICENSE`.

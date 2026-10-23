@@ -11,6 +11,8 @@ The plugin's AI instructions tell it to answer in the user's language and keep c
 4. Stay within the law and rules always: local, county, state, federal and platform rules.
 
 ## Español (`es`)
+_Traducción automática, no revisada por un hablante nativo. La versión en inglés es la oficial._
+
 **CourtesyCrawl**
 
 CourtesyCrawl es un plugin gratuito para investigar y extraer datos web de forma legítima: respeta robots.txt, los límites 429/Retry-After y los términos del sitio, y se identifica.
@@ -26,6 +28,8 @@ CourtesyCrawl es un plugin gratuito para investigar y extraer datos web de forma
 - Revisión del marketplace pendiente; aún no es una publicación aprobada.
 
 ## Français (`fr`)
+_Traduction automatique, non relue par un locuteur natif. La version anglaise fait foi._
+
 **CourtesyCrawl**
 
 CourtesyCrawl est un plugin gratuit pour la recherche et l'extraction web légitimes : il respecte robots.txt, les limites 429/Retry-After et les conditions du site, et s'identifie.
@@ -41,6 +45,8 @@ CourtesyCrawl est un plugin gratuit pour la recherche et l'extraction web légit
 - Examen sur le marketplace en attente ; pas encore une fiche approuvée.
 
 ## Português (`pt`)
+_Tradução automática, não revisada por um falante nativo. A versão em inglês é a oficial._
+
 **CourtesyCrawl**
 
 CourtesyCrawl é um plugin gratuito para pesquisa e coleta web legítimas: respeita robots.txt, limites 429/Retry-After e os termos do site, e se identifica.
@@ -56,6 +62,8 @@ CourtesyCrawl é um plugin gratuito para pesquisa e coleta web legítimas: respe
 - Análise do marketplace pendente; ainda não é uma listagem aprovada.
 
 ## Deutsch (`de`)
+_Maschinelle Übersetzung, nicht von Muttersprachlern geprüft. Maßgeblich ist die englische Fassung._
+
 **CourtesyCrawl**
 
 CourtesyCrawl ist ein kostenloses Plugin für legitime Webrecherche und Scraping: Es beachtet robots.txt, 429/Retry-After und Nutzungsbedingungen und gibt sich zu erkennen.
@@ -71,6 +79,8 @@ CourtesyCrawl ist ein kostenloses Plugin für legitime Webrecherche und Scraping
 - Marketplace-Prüfung ausstehend; noch kein genehmigter Eintrag.
 
 ## Italiano (`it`)
+_Traduzione automatica, non revisionata da un madrelingua. Fa fede la versione inglese._
+
 **CourtesyCrawl**
 
 CourtesyCrawl è un plugin gratuito per ricerca e scraping web legittimi: rispetta robots.txt, i limiti 429/Retry-After e i termini del sito, e si identifica.
@@ -86,6 +96,8 @@ CourtesyCrawl è un plugin gratuito per ricerca e scraping web legittimi: rispet
 - Revisione del marketplace in attesa; non è ancora una scheda approvata.
 
 ## Nederlands (`nl`)
+_Machinevertaling, niet nagekeken door een moedertaalspreker. De Engelse versie is leidend._
+
 **CourtesyCrawl**
 
 CourtesyCrawl is een gratis plug-in voor legitiem webonderzoek en scrapen: respecteert robots.txt, 429/Retry-After en de sitevoorwaarden, en maakt zich bekend.
@@ -101,6 +113,8 @@ CourtesyCrawl is een gratis plug-in voor legitiem webonderzoek en scrapen: respe
 - Marketplace-beoordeling loopt nog; nog geen goedgekeurde vermelding.
 
 ## Polski (`pl`)
+_Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka. Wiążąca jest wersja angielska._
+
 **CourtesyCrawl**
 
 CourtesyCrawl to darmowa wtyczka do legalnego badania i pobierania stron: przestrzega robots.txt, limitów 429/Retry-After i regulaminów oraz przedstawia się.
@@ -116,6 +130,8 @@ CourtesyCrawl to darmowa wtyczka do legalnego badania i pobierania stron: przest
 - Weryfikacja w marketplace w toku; to jeszcze nie zatwierdzona pozycja.
 
 ## Русский (`ru`)
+_Машинный перевод, не проверен носителем языка. Основной является английская версия._
+
 **CourtesyCrawl**
 
 CourtesyCrawl — бесплатный плагин для законного веб-исследования и сбора данных: соблюдает robots.txt, 429/Retry-After и правила сайта и представляется.
@@ -131,6 +147,8 @@ CourtesyCrawl — бесплатный плагин для законного в
 - Проверка в маркетплейсе ещё идёт; это пока не одобренная публикация.
 
 ## Українська (`uk`)
+_Машинний переклад, не перевірений носієм мови. Основною є англійська версія._
+
 **CourtesyCrawl**
 
 CourtesyCrawl — безкоштовний плагін для законного веб-дослідження та збору даних: дотримується robots.txt, 429/Retry-After і правил сайту та представляється.
@@ -146,6 +164,8 @@ CourtesyCrawl — безкоштовний плагін для законног�
 - Перевірка в маркетплейсі ще триває; це ще не схвалений запис.
 
 ## Türkçe (`tr`)
+_Makine çevirisidir, anadili bu dil olan biri tarafından incelenmemiştir. Geçerli olan İngilizce sürümdür._
+
 **CourtesyCrawl**
 
 CourtesyCrawl, meşru web araştırması ve veri toplama için ücretsiz bir eklentidir: robots.txt, 429/Retry-After ve site şartlarına uyar, kendini tanıtır.
@@ -161,6 +181,8 @@ CourtesyCrawl, meşru web araştırması ve veri toplama için ücretsiz bir ekl
 - Marketplace incelemesi sürüyor; henüz onaylı bir liste değil.
 
 ## العربية (`ar`)
+_ترجمة آلية لم يراجعها متحدث أصلي. النسخة الإنجليزية هي المعتمدة._
+
 **CourtesyCrawl**
 
 CourtesyCrawl إضافة مجانية للبحث وجمع البيانات من الويب بطرق مشروعة: تحترم robots.txt وحدود 429/Retry-After وشروط الموقع وتعرّف بنفسها.
@@ -176,6 +198,8 @@ CourtesyCrawl إضافة مجانية للبحث وجمع البيانات من 
 - مراجعة المتجر قيد الانتظار؛ ليست قائمة معتمدة بعد.
 
 ## עברית (`he`)
+_תרגום מכונה שלא נבדק על ידי דובר שפת אם. הגרסה האנגלית היא המחייבת._
+
 **CourtesyCrawl**
 
 CourtesyCrawl הוא תוסף חינמי למחקר ואיסוף נתונים מהרשת בדרך לגיטימית: מכבד את robots.txt, את 429/Retry-After ואת תנאי האתר ומזדהה.
@@ -191,6 +215,8 @@ CourtesyCrawl הוא תוסף חינמי למחקר ואיסוף נתונים מ
 - בדיקת ה-marketplace עדיין ממתינה; זה עדיין לא רישום מאושר.
 
 ## فارسی (`fa`)
+_ترجمه ماشینی است و توسط گویشور بومی بازبینی نشده است. نسخه انگلیسی معتبر است._
+
 **CourtesyCrawl**
 
 CourtesyCrawl افزونه‌ای رایگان برای پژوهش و جمع‌آوری مشروع داده از وب است: به robots.txt، محدودیت 429/Retry-After و شرایط سایت احترام می‌گذارد و خود را معرفی می‌کند.
@@ -206,6 +232,8 @@ CourtesyCrawl افزونه‌ای رایگان برای پژوهش و جمع‌�
 - بررسی در بازارچه در انتظار است؛ هنوز فهرستی تأییدشده نیست.
 
 ## हिन्दी (`hi`)
+_यह मशीनी अनुवाद है, किसी मूल भाषी ने इसकी समीक्षा नहीं की है। अंग्रेज़ी संस्करण ही प्रामाणिक है।_
+
 **CourtesyCrawl**
 
 CourtesyCrawl वैध वेब शोध और स्क्रैपिंग के लिए मुफ़्त प्लगइन है: यह robots.txt, 429/Retry-After और साइट की शर्तों का पालन करता है और अपनी पहचान बताता है।
@@ -221,6 +249,8 @@ CourtesyCrawl वैध वेब शोध और स्क्रैपिं�
 - मार्केटप्लेस समीक्षा लंबित है; यह अभी स्वीकृत लिस्टिंग नहीं है।
 
 ## বাংলা (`bn`)
+_এটি যন্ত্র-অনুবাদ, কোনো মাতৃভাষী এটি পর্যালোচনা করেননি। ইংরেজি সংস্করণটিই প্রামাণিক।_
+
 **CourtesyCrawl**
 
 CourtesyCrawl বৈধ ওয়েব গবেষণা ও স্ক্র্যাপিংয়ের জন্য বিনামূল্যের প্লাগইন: robots.txt, 429/Retry-After ও সাইটের শর্ত মানে এবং নিজের পরিচয় দেয়।
@@ -236,6 +266,8 @@ CourtesyCrawl বৈধ ওয়েব গবেষণা ও স্ক্র�
 - মার্কেটপ্লেস পর্যালোচনা বাকি; এখনও অনুমোদিত তালিকা নয়।
 
 ## اردو (`ur`)
+_یہ مشینی ترجمہ ہے، کسی اہلِ زبان نے اس کا جائزہ نہیں لیا۔ انگریزی ورژن ہی مستند ہے۔_
+
 **CourtesyCrawl**
 
 CourtesyCrawl جائز ویب تحقیق اور اسکریپنگ کے لیے مفت پلگ اِن ہے: یہ robots.txt، 429/Retry-After اور سائٹ کی شرائط کا احترام کرتا ہے اور اپنی شناخت کراتا ہے۔
@@ -251,6 +283,8 @@ CourtesyCrawl جائز ویب تحقیق اور اسکریپنگ کے لیے م�
 - مارکیٹ پلیس کا جائزہ زیرِ التوا ہے؛ ابھی منظور شدہ لسٹنگ نہیں۔
 
 ## 简体中文 (`zh`)
+_机器翻译，未经母语人士审校。以英文版本为准。_
+
 **CourtesyCrawl**
 
 CourtesyCrawl 是一款免费插件，帮助合法地进行网络研究与抓取：遵守 robots.txt、429/Retry-After 限制和网站条款，并表明身份。
@@ -266,6 +300,8 @@ CourtesyCrawl 是一款免费插件，帮助合法地进行网络研究与抓取
 - 市场审核尚在进行，目前还不是已批准的上架项目。
 
 ## 日本語 (`ja`)
+_機械翻訳であり、ネイティブスピーカーによる確認は受けていません。英語版が正式な版です。_
+
 **CourtesyCrawl**
 
 CourtesyCrawl は正当なウェブ調査・スクレイピングのための無料プラグインです。robots.txt、429/Retry-After、サイト規約を守り、身元を明示します。
@@ -281,6 +317,8 @@ CourtesyCrawl は正当なウェブ調査・スクレイピングのための無
 - マーケットプレイスの審査待ちで、まだ承認済みの掲載ではありません。
 
 ## 한국어 (`ko`)
+_기계 번역이며 원어민의 검토를 받지 않았습니다. 영어판이 공식 버전입니다._
+
 **CourtesyCrawl**
 
 CourtesyCrawl은 합법적인 웹 조사와 스크래핑을 위한 무료 플러그인으로, robots.txt, 429/Retry-After, 사이트 약관을 지키고 자신을 밝힙니다.
@@ -296,6 +334,8 @@ CourtesyCrawl은 합법적인 웹 조사와 스크래핑을 위한 무료 플러
 - 마켓플레이스 심사 대기 중이며 아직 승인된 목록이 아닙니다.
 
 ## Bahasa Indonesia (`id`)
+_Terjemahan mesin, belum ditinjau oleh penutur asli. Versi bahasa Inggris adalah versi yang berlaku._
+
 **CourtesyCrawl**
 
 CourtesyCrawl adalah plugin gratis untuk riset dan scraping web yang sah: mematuhi robots.txt, batas 429/Retry-After, dan ketentuan situs, serta mengidentifikasi diri.
@@ -311,6 +351,8 @@ CourtesyCrawl adalah plugin gratis untuk riset dan scraping web yang sah: mematu
 - Peninjauan marketplace masih menunggu; belum menjadi listing yang disetujui.
 
 ## Tiếng Việt (`vi`)
+_Bản dịch máy, chưa được người bản ngữ kiểm tra. Bản tiếng Anh là bản chính thức._
+
 **CourtesyCrawl**
 
 CourtesyCrawl là plugin miễn phí để nghiên cứu và thu thập web hợp pháp: tuân thủ robots.txt, giới hạn 429/Retry-After và điều khoản trang, đồng thời tự giới thiệu.
@@ -326,6 +368,8 @@ CourtesyCrawl là plugin miễn phí để nghiên cứu và thu thập web hợ
 - Đang chờ marketplace xét duyệt; chưa phải mục đã được phê duyệt.
 
 ## Kiswahili (`sw`)
+_Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia. Toleo la Kiingereza ndilo rasmi._
+
 **CourtesyCrawl**
 
 CourtesyCrawl ni programu-jalizi ya bure kwa utafiti na ukusanyaji halali wa data mtandaoni: inaheshimu robots.txt, 429/Retry-After na masharti ya tovuti, na inajitambulisha.
@@ -341,6 +385,8 @@ CourtesyCrawl ni programu-jalizi ya bure kwa utafiti na ukusanyaji halali wa dat
 - Ukaguzi wa marketplace bado unasubiriwa; bado si orodha iliyoidhinishwa.
 
 ## Tagalog / Filipino (`tl`)
+_Makina ang nagsalin nito at hindi pa nasusuri ng katutubong tagapagsalita. Ang bersyong Ingles ang opisyal._
+
 **CourtesyCrawl**
 
 Ang CourtesyCrawl ay libreng plugin para sa lehitimong web research at scraping: iginagalang nito ang robots.txt, ang 429/Retry-After at ang mga tuntunin ng site, at nagpapakilala ito.
