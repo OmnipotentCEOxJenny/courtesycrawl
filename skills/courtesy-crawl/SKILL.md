@@ -5,7 +5,7 @@ description: Plan and run legitimate, polite web research or scraping. Checks fo
 
 # CourtesyCrawl
 
-Follow `rules/pillars-and-scope.mdc`. Required. Answer in the user's language.
+Follow `rules/scope.mdc`. Required. Answer in the user's language.
 
 ## Workflow
 1. **Purpose and data.** What is being collected and why? If it includes personal data (names with contact details, profiles), stop and explain the privacy limits; suggest aggregate or official sources.

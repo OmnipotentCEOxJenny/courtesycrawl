@@ -49,17 +49,11 @@ Expected: `1.0.7`; Wikipedia Special pages `allowed: no` (exit 1); example.com `
 - Builder: Jenny Echo
 - Standards: RFC 9309, RFC 6585, RFC 9110. robots.txt parsing by protego (BSD-3-Clause).
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Use only legitimate means: legitimate, proven sources and methods; unreliable sources rejected.
-3. Double-check everything: every finding is confirmed by two independent checks, and the report shows both.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Components
 - `skills/courtesy-crawl`: the polite research workflow.
 - `skills/check-robots`: robots.txt explained under RFC 9309.
 - `scripts/courtesy_fetch.py`, `scripts/requirements.txt`, `scripts/local_test_server.py`: the helper, pinned deps and a local 429 test server.
-- `rules/pillars-and-scope.mdc`: the pillars and scope.
+- `rules/scope.mdc`: the scope.
 - `examples/sample-check.md`: real output.
 
 ## Languages

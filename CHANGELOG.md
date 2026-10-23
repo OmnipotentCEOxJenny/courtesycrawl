@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.9 (2026-10-23)
+- Remove internal notes from the README, translations, rule file (renamed to `rules/scope.mdc` where applicable) and skills. Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.8 (2026-10-23)
 - README: new "Testing status" section. Local automated tests pass; in-app testing is not yet completed. Records that the marketplace submit form's "tested locally and in-app" confirmation (2026-10-20) was checked in error before any in-app test; in-app testing is pending.
 - Docs only; no behavior changes. Local tests re-run and passed. Not tested in-app. Not resubmitted.
@@ -30,10 +33,10 @@
 - Docs only; no behavior changes.
 
 ## 1.0.1 (2026-10-20)
-- README follows the shared template: title, plain description, logo, existing content (Rob Domaine's four pillars unchanged), and a new final section "Honest assessment: what this plugin cannot do" listing real limits and the compliance statement.
+- README follows the shared template: title, plain description, logo, existing content, and a new final section "Honest assessment: what this plugin cannot do" listing real limits and the compliance statement.
 - TRANSLATIONS.md now covers the same 23 languages as every Omnipotent plugin (title, description and honest-assessment summary for each), all marked as machine translations not reviewed by native speakers.
 - Docs only; no behavior changes.
 - Status corrected: marketplace submission made 2026-10-20 (pending review).
 
 ## 1.0.0 (2026-10-20)
-- First release: courtesy-crawl and check-robots skills, pillars rule, `scripts/courtesy_fetch.py` helper (RFC 9309 robots.txt via protego, 429/503 Retry-After, rate limit, required contact), pinned `requirements.txt`, local 429 test server, real example, logo, translated summaries in 22 languages (machine-made, not native-reviewed).
+- First release: courtesy-crawl and check-robots skills, `scripts/courtesy_fetch.py` helper (RFC 9309 robots.txt via protego, 429/503 Retry-After, rate limit, required contact), pinned `requirements.txt`, local 429 test server, real example, logo, translated summaries in 22 languages (machine-made, not native-reviewed).

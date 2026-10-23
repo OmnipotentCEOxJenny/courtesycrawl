@@ -5,7 +5,7 @@ description: Read and explain a site's robots.txt for a given URL and crawler na
 
 # Check robots.txt
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language.
+Follow `rules/scope.mdc`. Answer in the user's language.
 
 1. Run `python scripts/courtesy_fetch.py check <URL> --agent <Token>` and show the output.
 2. Explain the RFC 9309 rules it applied:

@@ -1,7 +1,7 @@
 {
   "name": "courtesycrawl",
   "displayName": "CourtesyCrawl",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Free helper for legitimate web research and scraping: reads robots.txt (RFC 9309), honors 429/Retry-After, rate-limits, identifies itself, no login or paywall bypass.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
