@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.8 (2026-10-23)
+- README: new "Testing status" section. Local automated tests pass; in-app testing is not yet completed. Records that the marketplace submit form's "tested locally and in-app" confirmation (2026-10-20) was checked in error before any in-app test; in-app testing is pending.
+- Docs only; no behavior changes. Local tests re-run and passed. Not tested in-app. Not resubmitted.
+
 ## 1.0.7 (2026-10-23)
 - Translations: each language section in TRANSLATIONS.md now starts with a one-line notice in that language saying it is a machine translation, not reviewed by a native speaker, and that the English version is authoritative. README Languages section notes this. No behavior changes.
 - Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
